@@ -1,7 +1,7 @@
 # Web_scraping
 Repository For University Evaluation
-##Description
-###In the Project is used following modules:
+##Description##
+###In the Project is used following modules:###
 **time
 requests
 bs4
