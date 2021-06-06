@@ -2,11 +2,11 @@
 Repository For University Evaluation
 ## Description
 ### In the Project is used following modules:
-**time
-requests
-bs4
-random
-csv**
+**time**
+**requests**
+**bs4**
+**random**
+**csv**
 
 With this code you can download data and write it in .csv file.
 **When you Open only .csv file you won't be able to read information because of bad encoding**
